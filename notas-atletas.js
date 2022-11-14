@@ -14,5 +14,5 @@ let atletas = [
  {
    nome: "Bruno Castro",
    notas: [10, 10, 10, 9, 9.5]
- }
+ } 
 ];
